@@ -1,3 +1,4 @@
+---
 apiVersion: v2
 actions:
   - name: "Run alpine image to say hello world"
